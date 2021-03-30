@@ -1,0 +1,19 @@
+{
+  "name": "page-performance-assessment",
+  "version": "1.0.0",
+  "description": "page performance assesment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hagevvashi/page-performance-assessment.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hagevvashi/page-performance-assessment/issues"
+  },
+  "homepage": "https://github.com/hagevvashi/page-performance-assessment#readme"
+}
