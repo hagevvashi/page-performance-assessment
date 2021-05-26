@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "page performance assesment",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/hagevvashi/page-performance-assessment/issues"
   },
-  "homepage": "https://github.com/hagevvashi/page-performance-assessment#readme"
+  "homepage": "https://github.com/hagevvashi/page-performance-assessment#readme",
+  "dependencies": {
+    "googleapis": "^74.2.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.2"
+  }
 }
